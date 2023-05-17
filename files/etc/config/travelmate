@@ -17,3 +17,11 @@ config uplink
 	option con_end_expiry '0'
 	option con_start '2023.05.17-13:06:04'
 
+config uplink
+	option enabled '1'
+	option device 'radio0'
+	option ssid 'BI4PCS'
+	option con_start_expiry '0'
+	option con_end_expiry '0'
+	option con_start '2023.05.18-06:03:33'
+
