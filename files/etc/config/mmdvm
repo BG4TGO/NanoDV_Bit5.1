@@ -80,7 +80,7 @@ config ysfgateway 'YSFG_Network'
 
 config p25gateway 'P25G_Network'
 	option Startup '10403'
-	option InactivityTimeout '5'
+	option InactivityTimeout '999'
 	option Revert '1'
 
 config nxdngateway 'NXDNG_Network'
