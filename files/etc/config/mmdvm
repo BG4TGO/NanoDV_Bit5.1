@@ -36,7 +36,7 @@ config mmdvmhost 'Modem'
 	option RXOffset '0'
 	option TXOffset '0'
 	option RSSIMappingFile '/etc/mmdvm/RSSI.dat'
-	option Port '/dev/ttyUSB0'
+	option Port 'NullModem'
 
 config mmdvmhost 'DStar_Network'
 	option Enable '0'
@@ -75,8 +75,8 @@ config mmdvmhost 'System_Fusion_Network'
 
 config ysfgateway 'YSFG_Network'
 	option InactivityTimeout '5'
-	option Revert '0'
 	option Startup 'CN-BI4PCS'
+	option Revert '1'
 
 config p25gateway 'P25G_Network'
 	option Startup '10403'
