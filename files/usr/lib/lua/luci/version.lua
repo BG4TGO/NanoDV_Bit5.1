@@ -16,5 +16,5 @@ else
 	distversion = "Development Snapshot"
 end
 
-luciname    = "BI4PCS MMDVM"
-luciversion = "2023.05.18"
+luciname    = "MT7688"
+luciversion = "MMDVM热点"
