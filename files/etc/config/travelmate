@@ -15,7 +15,7 @@ config uplink
 	option ssid '苏观-Hotel-2G'
 	option con_start_expiry '0'
 	option con_end_expiry '0'
-	option con_start '2023.05.17-13:06:04'
+	option con_start '2023.08.28-19:15:37'
 
 config uplink
 	option enabled '1'
