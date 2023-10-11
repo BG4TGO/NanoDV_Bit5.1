@@ -16,5 +16,5 @@ else
 	distversion = "Development Snapshot"
 end
 
-luciname    = "MT7688"
-luciversion = "MMDVM热点"
+luciname    = "Bit5.1"
+luciversion = "NanoDV"
