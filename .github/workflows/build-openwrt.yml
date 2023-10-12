@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name:  NanoDV
+name:  编译NanoDV固件
 
 on:
   repository_dispatch:
